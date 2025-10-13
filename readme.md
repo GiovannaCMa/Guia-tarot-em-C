@@ -133,7 +133,4 @@ REPRESENTA: O Ponto Zero. O potencial bruto, a Vontade Pura de começar, sem med
 
 ## 🪶 Autor
 **Giovanna Campos Marchesin**  
-💫 Projeto pessoal para estudo de linguagem C e simbologia do Tarot.  
-
----
-💫 Projeto pessoal para estudo de linguagem C e simbologia do Tarot.  
+💫 Projeto pessoal para estudo de linguagem C e simbologia do Tarot.    
