@@ -40,8 +40,8 @@ O programa oferece um menu inicial com duas opções:
 O programa depende de **arquivos de texto** externos, que devem estar na **mesma pasta** do executável.
 
 ```
-📂 guia-tarot/
-├── guia_tarot.c
+📂 Guia-tarot-C/
+├── tarot.c
 ├── nomes.txt
 ├── simbolos.txt
 └── jornada.txt
@@ -53,32 +53,32 @@ O programa depende de **arquivos de texto** externos, que devem estar na **mesma
 Lista simples dos 22 Arcanos Maiores, por exemplo:
 ```
 0 - O Louco
-1 - O Mago
-2 - A Sacerdotisa
+I - O Mago
+II - A Sacerdotisa
 ...
-21 - O Mundo
+XXI - O Mundo
 ```
 
 #### `simbolos.txt`
-Cada carta é separada por uma linha com `---`:
+Cada carta tem o seu significado, por exemplo:
 
 ```
 NOME: O Louco
+N°: 0
+
 SIMBOLISMO:
-O Abismo: O salto de fé, o início de uma jornada.
-O Cão: Instinto e lealdade.
----
-NOME: O Mago
-SIMBOLISMO:
-A Mesa: Representa o domínio sobre os quatro elementos.
-Os Objetos: Indicam as ferramentas da criação consciente.
----
+O Abismo/Precipício: O desconhecido, o salto de fé, o perigo (ou oportunidade) que Louco não está vendo porque está olhando para cima.
+A Trouxa na Varinha: Contém todas as experiências das vidas passadas ou o mínimo essencial (o que ele realmente precisa, não o que ele pensa que precisa).
+A Rosa Branca: Inocência, pureza de intenção.
+O Cão Branco: O instinto, o subconsciente, ou um amigo fiel que está latindo avisando do perigo (a voz da prudência que ele ignora).
+
+REPRESENTA: O Ponto Zero. O potencial bruto, a Vontade Pura de começar, sem medo.
 ```
 
 #### `jornada.txt`
 Texto corrido descrevendo a Jornada do Louco:
 ```
-O Louco inicia sua jornada rumo ao autoconhecimento, passando por todos os arquétipos dos Arcanos Maiores...
+No princípio, havia apenas silêncio. Então algo despertou — uma consciência tênue, curiosa, sem forma...
 ```
 
 ---
@@ -87,12 +87,12 @@ O Louco inicia sua jornada rumo ao autoconhecimento, passando por todos os arqu�
 
 ### Compilar:
 ```bash
-gcc guia_tarot.c -o guia_tarot
+gcc tarot.c -o tarot.out
 ```
 
 ### Executar:
 ```bash
-./guia_tarot
+./tarot.out
 ```
 
 ---
@@ -117,10 +117,16 @@ Digite o nome do Arcano: O Mago
 
 **Saída:**
 ```
-Carta: O Mago
+NOME: O Louco
+N°: 0
+
 SIMBOLISMO:
-A Mesa: Representa o domínio sobre os quatro elementos.
-Os Objetos: Indicam as ferramentas da criação consciente.
+O Abismo/Precipício: O desconhecido, o salto de fé, o perigo (ou oportunidade) que Louco não está vendo porque está olhando para cima.
+A Trouxa na Varinha: Contém todas as experiências das vidas passadas ou o mínimo essencial (o que ele realmente precisa, não o que ele pensa que precisa).
+A Rosa Branca: Inocência, pureza de intenção.
+O Cão Branco: O instinto, o subconsciente, ou um amigo fiel que está latindo avisando do perigo (a voz da prudência que ele ignora).
+
+REPRESENTA: O Ponto Zero. O potencial bruto, a Vontade Pura de começar, sem medo.
 ```
 
 ---
