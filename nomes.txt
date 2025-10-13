@@ -1,0 +1,24 @@
+Lista dos Arcanos Maiores:
+
+0 - O Louco
+I - O Mago
+II - A Sacerdotisa
+III- A Imperatriz
+IV - O Imperador
+V - O Hierofante
+VI - Os Amantes
+VII - O Carro
+VIII - A Justiça
+IX - O Eremita
+X - Roda da Fortuna
+XI - A Força 
+XII - O Enforcado
+XIII - A Morte
+XIV - A Temperança
+XV - O Diabo
+XVI - A Torre
+XVII - A Estrela
+XVIII - A Lua
+XIX - O Sol
+XX - O Julgamento
+XXI - O Mundo
