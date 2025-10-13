@@ -21,7 +21,7 @@ O programa oferece um menu inicial com duas opções:
 
 ## 🧠 Estrutura do Programa
 
-____________________________________________________________________________________________________
+
 | Função              | Descrição                                                                   |
 |---------------------|-----------------------------------------------------------------------------|
 | `abertura()`        | Exibe o título estilizado “GUIA DE TAROT”.                                  |
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 | `maiores()`         | Menu de navegação para as funções dos Arcanos Maiores.                      |
 | `menores()`         | Placeholder para os Arcanos Menores (a ser implementado).                   |
 | `main()`            | Função principal que inicializa o programa e apresenta o menu inicial.      |
-____________________________________________________________________________________________________
+
 
 ---
 
