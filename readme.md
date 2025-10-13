@@ -21,17 +21,19 @@ O programa oferece um menu inicial com duas opções:
 
 ## 🧠 Estrutura do Programa
 
-______________________________________________________________________________________________________
-| Função                | Descrição                                                                  |
-|-----------------------|----------------------------------------------------------------------------|
-| `abertura()`          | Exibe o título estilizado “GUIA DE TAROT”.                                 |
-| `nomesMaior()`        | Lê e imprime o conteúdo do arquivo `nomes.txt`.                            |
-| `simbolosMaior()`     | Lê `simbolos.txt`, busca o nome digitado e mostra o significado simbólico. |
-| `jornada()`           | Exibe o conteúdo de `jornada.txt`, com a narrativa da Jornada do Louco.    |
-| `maiores()`           | Menu de navegação para as funções dos Arcanos Maiores.                     |
-| `menores()`           | Placeholder para os Arcanos Menores (a ser implementado).                  |
-| `main()`              | Função principal que inicializa o programa e apresenta o menu inicial.     |
-______________________________________________________________________________________________________
+____________________________________________________________________________________________________
+| Função              | Descrição                                                                   |
+|---------------------|-----------------------------------------------------------------------------|
+| `abertura()`        | Exibe o título estilizado “GUIA DE TAROT”.                                  |
+| `nomesMaior()`      | Lê e imprime o conteúdo do arquivo `nomes.txt`.                             |
+| `simbolosMaior()`   | Lê `simbolos.txt`, busca o nome digitado e mostra o significado simbólico.  |
+| `jornada()`         | Exibe o conteúdo de `jornada.txt`, com a narrativa da Jornada do Louco.     |
+| `maiores()`         | Menu de navegação para as funções dos Arcanos Maiores.                      |
+| `menores()`         | Placeholder para os Arcanos Menores (a ser implementado).                   |
+| `main()`            | Função principal que inicializa o programa e apresenta o menu inicial.      |
+____________________________________________________________________________________________________
+
+---
 
 ## 📁 Estrutura de Arquivos
 
@@ -60,15 +62,17 @@ Lista simples dos 22 Arcanos Maiores, por exemplo:
 #### `simbolos.txt`
 Cada carta é separada por uma linha com `---`:
 
+```
 NOME: O Louco
 SIMBOLISMO:
 O Abismo: O salto de fé, o início de uma jornada.
 O Cão: Instinto e lealdade.
---------------------------------------------------
+---
 NOME: O Mago
 SIMBOLISMO:
 A Mesa: Representa o domínio sobre os quatro elementos.
 Os Objetos: Indicam as ferramentas da criação consciente.
+---
 ```
 
 #### `jornada.txt`
@@ -77,6 +81,7 @@ Texto corrido descrevendo a Jornada do Louco:
 O Louco inicia sua jornada rumo ao autoconhecimento, passando por todos os arquétipos dos Arcanos Maiores...
 ```
 
+---
 
 ## 💻 Compilação e Execução
 
@@ -90,6 +95,7 @@ gcc guia_tarot.c -o guia_tarot
 ./guia_tarot
 ```
 
+---
 
 ## 🧩 Exemplo de Uso
 
@@ -117,8 +123,11 @@ A Mesa: Representa o domínio sobre os quatro elementos.
 Os Objetos: Indicam as ferramentas da criação consciente.
 ```
 
-
+---
 
 ## 🪶 Autor
-**Giovanna Campos**  
+**Giovanna Campos Marchesin**  
+💫 Projeto pessoal para estudo de linguagem C e simbologia do Tarot.  
+
+---
 💫 Projeto pessoal para estudo de linguagem C e simbologia do Tarot.  
