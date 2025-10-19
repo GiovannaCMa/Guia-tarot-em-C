@@ -7,7 +7,8 @@ Pássaro ou Lírio: Inspiração, espiritualidade, pureza de sentimentos.
 Ondas Suaves: Fluxo emocional natural, serenidade.
 
 REPRESENTA: O início de experiências emocionais profundas, abertura para amar e sentir, potencial para novas relações e intuições.
----
+
+
 NOME: Dois de Copas
 
 SIMBOLISMO:
@@ -16,7 +17,8 @@ Cisnes ou Animais em Par: Amor recíproco, lealdade e harmonia.
 Mão Tocando a Mão: Compromisso, conexão consciente.
 
 REPRESENTA: Relacionamentos significativos, acordos emocionais e harmonia entre duas partes.
----
+
+
 NOME: Três de Copas
 
 SIMBOLISMO:
@@ -26,7 +28,8 @@ Flores e Frutas: Fertilidade emocional, alegria compartilhada.
 Dança Circular: União e fluxo harmonioso de sentimentos.
 
 REPRESENTA: Alegria coletiva, celebrações emocionais e experiências felizes compartilhadas.
----
+
+
 NOME: Quatro de Copas
 
 SIMBOLISMO:
@@ -35,7 +38,8 @@ Taça Oferecida pelo Céu: Oportunidade emocional ainda não percebida.
 Nuvens ou Sombra Suave: Confusão ou indecisão.
 
 REPRESENTA: Pausa para avaliação emocional, necessidade de discernir oportunidades afetivas.
----
+
+
 NOME: Cinco de Copas
 
 SIMBOLISMO:
@@ -44,7 +48,8 @@ Duas Taças em Pé: O que ainda pode ser aproveitado, esperança residual.
 Rio ou Ponte: Passagem emocional, superação de frustrações.
 
 REPRESENTA: Tristeza, desapontamento, mas também aprendizado emocional e resiliência.
----
+
+
 NOME: Seis de Copas
 
 SIMBOLISMO:
@@ -53,7 +58,8 @@ Crianças Brincando com Flores: Nostalgia, lembranças afetivas.
 Pequenos Presentes ou Doces: Generosidade e simplicidade de coração.
 
 REPRESENTA: Memórias afetivas, reencontros emocionais e harmonia com o passado.
----
+
+
 NOME: Sete de Copas
 
 SIMBOLISMO:
@@ -62,7 +68,8 @@ Borra de Café ou Água Misteriosa: Confusão emocional, sonhos e fantasias.
 Espelho ou Reflexo: A necessidade de discernir realidade e desejo.
 
 REPRESENTA: Momentos de indecisão, fantasia, escolhas emocionais que exigem clareza.
----
+
+
 NOME: Oito de Copas
 
 SIMBOLISMO:
@@ -71,7 +78,8 @@ Lua e Caminho: Jornada interna, busca por sentido emocional.
 Montanhas ao Fundo: Superação, desafio interior.
 
 REPRESENTA: Desapego, introspecção e busca de plenitude emocional.
----
+
+
 NOME: Nove de Copas
 
 SIMBOLISMO:
@@ -80,7 +88,8 @@ Decoração de Festas ou Frutas: Abundância afetiva e prazer emocional.
 Cortinas ou Tapetes Luxuosos: Conforto e segurança emocional.
 
 REPRESENTA: Cumprimento de desejos emocionais, equilíbrio e gratidão.
----
+
+
 NOME: Dez de Copas
 
 SIMBOLISMO:
@@ -89,7 +98,8 @@ Família Feliz com Arco-Íris: Felicidade completa, harmonia familiar.
 Casa ou Lar ao Fundo: Estabilidade, segurança e amor duradouro.
 
 REPRESENTA: Alegria plena, união familiar e afetiva, felicidade duradoura.
----
+
+
 NOME: Valete de Copas
 
 SIMBOLISMO:
@@ -98,8 +108,9 @@ Cisne Pequeno ou Pássaro: Gentileza, sensibilidade, intuição nascente.
 Água Corrente: Exploração de sentimentos e comunicação afetiva.
 
 REPRESENTA: Novas experiências emocionais, aprendizado emocional e abertura para o coração.
----
-NOME: Cavaleiro de Copas**
+
+
+NOME: Cavaleiro de Copas
 
 SIMBOLISMO:
 Cavaleiro Montado com Taça: Progresso afetivo, busca de romance ou aventura emocional.
@@ -107,7 +118,8 @@ Cavaleiro Montado com Taça: Progresso afetivo, busca de romance ou aventura emo
 Cores Suaves: Sensibilidade, nobreza de sentimentos.
 
 REPRESENTA: Ação guiada pelo coração, paixão e convites emocionais, movimento afetivo.
----
+
+
 NOME: Rainha de Copas
 
 SIMBOLISMO:
@@ -116,7 +128,8 @@ Cisne ou Água Tranquila: Profundidade emocional e equilíbrio.
 Roupas Elegantes ou Coroa: Autoridade afetiva, maturidade emocional.
 
 REPRESENTA: Sabedoria emocional, empatia, compaixão e intuição desenvolvida.
----
+
+
 NOME: Rei de Copas
 
 SIMBOLISMO:
